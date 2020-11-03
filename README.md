@@ -1,7 +1,7 @@
 
 This is a command-line CMS for managing an organization created by using the NodeJS, inquirer, and MySQL. Allows an adminstrator to *view* and *add* the departments, roles, and employees. The Additional functionalities include the ability to *update* employees with new roles. Application includes the original seed file used for creating and populating the necessary database in MySQL workbench. Created using the CRUD functions of persistent data storage.
 
-![cmsgif](https://user-images.githubusercontent.com/57336277/71221867-ca6e8900-2293-11ea-8bab-0f329d73393c.gif)
+
 ![cmsgif2](https://user-images.githubusercontent.com/57336277/71221930-086bad00-2294-11ea-888f-ff2cdc06a5c6.gif)
 
 
